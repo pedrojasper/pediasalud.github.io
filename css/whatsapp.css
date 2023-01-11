@@ -1,0 +1,23 @@
+/* CSS Document */
+
+.whatsapp {
+  background-color: #25d366;
+  color: aliceblue;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  border-radius: 70px;
+  display: inline-block;
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+}
+
+.whatsapp__image {
+  padding: 0rem 0rem;
+  display: ruby-text;
+  position: fixed;
+  z-index: 10;
+  bottom: 5rem;
+  right: 3.7rem;
+}
+
